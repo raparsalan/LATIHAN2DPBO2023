@@ -22,6 +22,6 @@ Setelah membuat 2 class tadi baru terakhir membuat class Mahasiswa dan mewarisi 
 
 setelah itu saya membuat sebuah list untuk menampung objek mahasiswa nantinya dan membuat 2 buah objek sebagai contoh barulah dimasukkan kedalam list dan dikeluarkan outputnya
 
-###Hasil Output yang dihasilkan :
+### Hasil Output yang dihasilkan :
 ![image](https://user-images.githubusercontent.com/90766249/220077734-8d24cb5b-24f7-4699-b2ef-898f0bfc2530.png)
 
