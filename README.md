@@ -3,9 +3,10 @@ Latihan 2 dalam mata kuliah Desain dan Pemrograman Beroirentasi Objek
 # Janji
 Saya Rafi Arsalan NIM 2108938 mengerjakan Latihan 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # Desain Program
-program yang dibuat kali ini bertujuan untuk mengetes pemahaman tentang pewarisan, dimana Human sebagai parent disini lalu mewariskan dirinya ke class sivitas dan akhirnya ada class Mahasiswa yang mewarisi sivitias sehingga disini keadaannya class mahasiswa mewarisi seluruh atribut dan juga method dari class human dan juga sivitas
-class diagram :
-![Class Diagram](https://user-images.githubusercontent.com/90766249/221420964-cda3e002-1c20-4c45-be25-4c7fed3ec117.png)
+program yang dibuat kali ini bertujuan untuk mengetes pemahaman tentang pewarisan, dimana Human sebagai parent disini lalu mewariskan dirinya ke class sivitas dan akhirnya ada class Mahasiswa yang mewarisi sivitias sehingga disini keadaannya class mahasiswa mewarisi seluruh atribut dan juga method dari class human dan juga sivitas. 
+Class diagram :
+![Class Diagram](https://user-images.githubusercontent.com/90766249/221744143-a2597b43-fd06-4865-8ac3-642b1e728ce9.png)
+
 
 # Alur Program dan dokumentasi
 Alur dari program ini sendiri awalnya membuat sebuah class Human dengan Atribut :
